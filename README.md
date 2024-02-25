@@ -1,5 +1,5 @@
 # Music_Genre_Classifier
-A group project for my 3rd year 'Intro to AI' university unit. I built a music genre classifier using Keras, trained on the [GTZAN](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification) dataset.
+A project for my 3rd year 'Intro to AI' university unit. I built a music genre classifier using Keras, trained on the [GTZAN](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification) dataset.
 
 The group [report](Music_Genre_Classifier_Report.pdf) is included discussing the literature, methods, experimentation, and analysis of our results.
 
